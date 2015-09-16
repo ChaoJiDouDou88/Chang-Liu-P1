@@ -7,7 +7,7 @@
 A simple live webpage of my self introduction
 
 ##Details for teaching team##
-me.html is the major file, all others are just images showed on webpage
+Whold package include index.html and IMG_1033.JPG
 
 ##Outside code##
 [netdna.bootstrapcdn.com]

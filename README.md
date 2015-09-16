@@ -7,7 +7,7 @@
 A simple live webpage of my self introduction
 
 ##Details for teaching team##
-Whold package include index.html and IMG_1033.JPG
+Whole package include index.html and IMG_1033.JPG
 
 ##Outside code##
 [netdna.bootstrapcdn.com]

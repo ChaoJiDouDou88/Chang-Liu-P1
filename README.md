@@ -10,7 +10,7 @@ A simple live webpage of my self introduction
 Whole package include index.html and IMG_1033.JPG
 
 ##Outside code##
-[netdna.bootstrapcdn.com]
+[netdna.bootstrapcdn.com][2]
 
 ##Contact Info##
 If you have any questions regarding this project, please contact me:
